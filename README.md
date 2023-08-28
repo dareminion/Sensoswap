@@ -3,7 +3,7 @@ Working under Professor Matthew Campisi's SIIL(Student Impact Innovation Lab) an
 <p align="center">
     <img src="https://github.com/dareminion/Sensoswap/assets/128090000/dce9c3f6-d67d-47f2-b9a1-0311dba2ce27">
 </p>
-<p align="center">The shcematic above shows the different connections and traces needed in order to connect and power each sensor properly.</p>
+<p align="center">The schematic above shows the different connections and traces needed in order to connect and power each sensor properly.</p>
 <p align="center">
     <img src="https://github.com/dareminion/Sensoswap/assets/128090000/7e5f6b28-7d2d-4f88-b66c-77a50a136778">
 </p>
